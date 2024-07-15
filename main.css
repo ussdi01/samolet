@@ -1,0 +1,47 @@
+*
+*::after,
+*::befor{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(modern-fighter-plane-c663ih8enpn8y6e0.jpg);
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.wrapper{
+  max-width: 960px;
+  background-color: rgba(253, 253, 253, 0.766);
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.bodoni-moda-sc-title {
+  font-family: "Bodoni Moda SC", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.bodoni-moda-sc-title2 {
+  font-family: "Bodoni Moda SC", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.list{
+  text-align: left;
+}
+
